@@ -1,7 +1,7 @@
 ### Olá, meu nome é João 🙋‍♂️
 Atualmente estou cursando Ciência da Computação.
 
-Buscando me aprimorar em algumas técnologias e registrar meu progresso aqui. 
+Buscando me aprimorar em algumas tecnologias e registrar meu progresso aqui. 
 
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyeight&show_icons=true&theme=dark)
